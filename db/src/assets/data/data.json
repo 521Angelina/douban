@@ -1,0 +1,112 @@
+[	
+	{
+		"title" : "影院热映",
+		"gengduo" : "更多",
+		"movieData" : [
+			{
+				"banner":  "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2417948644.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "美女与野兽"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2431279389.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "麦兜响当当"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2430086967.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "通灵姐妹"
+			},
+			{
+				"banner":  "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2446510667.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "滚出来，凶手"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2425774100.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "走出尘埃"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2432493858.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "一条狗的使命"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2431980130.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "金刚狼3：殊死一战"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2429713841.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "生化危机：终章"
+			}
+		]
+	},
+	{
+		"title" : "免费在线观影",
+		"gengduo" : "更多",
+		"movieData" : [
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2399366116.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "三少爷的剑"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2393776153.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "脑残粉"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2393908940.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "勇士之门"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2404697351.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "我是你的小幂phone"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2375744186.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "阿修罗"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2380677316.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "湄公河行动"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2352856608.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "仁川登陆作战"
+			}
+		]
+	},
+	{
+		"title" : "芯片速递",
+		"gengduo" : "更多",
+		"movieData" : [
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2290686069.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "孟买之恋"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2391551700.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "游戏王：次元的黑暗面"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2264657973.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "假死新人生"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2290686069.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "石墙"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2337019460.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "假死新人生"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2356912156.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "斯隆女士"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2412059661.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "莫斯科陷落"
+			},
+			{
+				"banner": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2315421581.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+				"name" : "慢性"
+			}
+		]
+	}
+]
